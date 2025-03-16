@@ -1,4 +1,4 @@
-# Customer Churn Predictor
+# Customer Churn 
 
 ## 📌 Overview
 Customer churn prediction helps businesses identify customers likely to discontinue using their services. By leveraging machine learning techniques, businesses can take proactive measures to improve customer satisfaction, reduce revenue loss, and optimize marketing efforts.
