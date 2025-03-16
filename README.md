@@ -19,24 +19,24 @@ The dataset containas relevant features such as customer demographics, usage beh
 ## 📈 Models 
 The following machine learning models were implemented to predict customer churn:
 
-Logistic Regression
+* Logistic Regression
 
-Random Forest Classifier
+* Random Forest Classifier
 
-Gradient Boosting Classifier
+* Gradient Boosting Classifier
 
-Support Vector Classifier (SVC)
+* Support Vector Classifier (SVC)
 
-K-Neighbors Classifier
+* K-Neighbors Classifier
 
-Gaussian Naïve Bayes (GaussianNB)
+* Gaussian Naïve Bayes (GaussianNB)
 
-AdaBoost Classifier
+* AdaBoost Classifier
 
 ## 📜 Conclusion
 With 90% accuracy, precision, and recall, the Logistic Regression model effectively balances identifying both churn and non-churn customers and is a good fit model. Its strong F1-score (0.89–0.90) ensures reliable predictions, making it a robust choice for proactive customer retention strategies.
 
-For queries, reach out at [your-email@example.com] or connect on [LinkedIn](https://www.linkedin.com/in/your-profile/).
+For queries, reach out at nanduharidastk@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/nanduharidastk).
 
 
 
